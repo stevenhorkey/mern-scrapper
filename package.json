@@ -1,0 +1,20 @@
+{
+  "name": "mern-scrapper",
+  "version": "1.0.0",
+  "description": "MERN Scrapper",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenhorkey/mern-scrapper.git"
+  },
+  "author": "Steven Horkey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevenhorkey/mern-scrapper/issues"
+  },
+  "homepage": "https://github.com/stevenhorkey/mern-scrapper#readme"
+}
